@@ -50,24 +50,24 @@ Titan Network Bot is an advanced automation tool designed to streamline account 
 
 ### 🔑 Keywords
 
-Titan-network-Reger
-Titan-network-Farmer
-Titan-network-Miner
-Titan-network-Multireger
-Titan-network-Multifarmer
-Titan-network-Extension-Bot
-Titan-network-Bot
-Titan-network-Multiwallet
-Titan-network-AutoFarm
-Titan-network-multibot
-Titan-network-software
-Titan-network-BotMiner
-Titan-software
-Titan-Multifarmer
-Titan-Farmer
-titan network 
-titan network tnt4 
-titan network tnt3
-Titan galileo 
-galileo testnet
+- Titan-network-Reger
+- Titan-network-Farmer
+- Titan-network-Miner
+- Titan-network-Multireger
+- Titan-network-Multifarmer
+- Titan-network-Extension-Bot
+- Titan-network-Bot
+- Titan-network-Multiwallet
+- Titan-network-AutoFarm
+- Titan-network-multibot
+- Titan-network-software
+- Titan-network-BotMiner
+- Titan-software
+- Titan-Multifarmer
+- Titan-Farmer
+- titan network 
+- titan network tnt4 
+- titan network tnt3
+- Titan galileo 
+- galileo testnet
 ---
